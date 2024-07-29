@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid Credential</description>
+   <name>LG_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd0f5fb7-2c0a-4d70-ac3d-7281e81c3800</testCaseGuid>
+</TestCaseEntity>

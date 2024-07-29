@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hoka One One Kawana 2 Black Running Shoes</name>
+   <tag></tag>
+   <elementGuidId>34444294-fe4a-44ad-b0e2-6dde85ca4aee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wc-block-components-product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-7']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f32ae045-8c77-4a97-9d04-010266532aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wc-block-components-product-name</value>
+      <webElementGuid>51f6ac71-110e-48cb-81d9-f403bc3b938d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://erlangga.enjoyproject.online/product/sepatu-lari-hoka-one-one-kawana-2-black/</value>
+      <webElementGuid>ca7848df-129e-4752-b60e-6f2eaca67645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoka One One Kawana 2 Black Running Shoes</value>
+      <webElementGuid>fae2cf49-14f4-4859-83b6-ebe038ffff8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-7&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;wp-block-woocommerce-cart alignwide&quot;]/div[4]/div[1]/div[@class=&quot;wc-block-components-sidebar-layout wc-block-cart wp-block-woocommerce-filled-cart-block is-large&quot;]/div[@class=&quot;wc-block-components-main wc-block-cart__main wp-block-woocommerce-cart-items-block&quot;]/table[@class=&quot;wc-block-cart-items wp-block-woocommerce-cart-line-items-block&quot;]/tbody[1]/tr[@class=&quot;wc-block-cart-items__row&quot;]/td[@class=&quot;wc-block-cart-item__product&quot;]/div[@class=&quot;wc-block-cart-item__wrap&quot;]/a[@class=&quot;wc-block-components-product-name&quot;]</value>
+      <webElementGuid>046ee088-43be-4a67-89b6-34d7ec859902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-7']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/a</value>
+      <webElementGuid>ef163b2a-4219-4954-b60c-02d5b90e3217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hoka One One Kawana 2 Black Running Shoes')]</value>
+      <webElementGuid>0941fe5c-4697-449d-b1f8-8870157d8ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::a[2]</value>
+      <webElementGuid>29ecd602-717d-4e9c-832f-16975c784fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::a[2]</value>
+      <webElementGuid>f3537e8e-c5b9-46c6-a1d9-8458c6d79687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous price:'])[1]/preceding::a[1]</value>
+      <webElementGuid>6c73c6a6-e26c-444e-9ba3-8cb61e7fde14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 2.499.000,00'])[1]/preceding::a[1]</value>
+      <webElementGuid>028fef26-9af8-4d0c-8cb4-b21376958b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hoka One One Kawana 2 Black Running Shoes']/parent::*</value>
+      <webElementGuid>4cb68b4b-2aea-4ebc-8df0-21e9afe1ed51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://erlangga.enjoyproject.online/product/sepatu-lari-hoka-one-one-kawana-2-black/')])[2]</value>
+      <webElementGuid>aa5f98e3-05cd-45e4-8025-de243975fe55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a</value>
+      <webElementGuid>1ea84805-38ef-4bd7-b9fb-3a5efb1565cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://erlangga.enjoyproject.online/product/sepatu-lari-hoka-one-one-kawana-2-black/' and (text() = 'Hoka One One Kawana 2 Black Running Shoes' or . = 'Hoka One One Kawana 2 Black Running Shoes')]</value>
+      <webElementGuid>508410ac-56c2-46ee-81d5-5b3e899792d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
